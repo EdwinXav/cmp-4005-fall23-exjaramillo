@@ -51,7 +51,7 @@ Sections: 1.1, 1.2, 1.3 and 1.5
 
     Internet de las cosas (IoT): los dispositivos de IoT, como los dispositivos domésticos inteligentes, los dispositivos portátiles y los sensores industriales, generan una gran cantidad de datos que deben transmitirse y procesarse. Es necesaria una red escalable para manejar el creciente número de dispositivos conectados.
 
-- Why does a network need to be cost-effective, fair, and have robust connectivity?
+## - Why does a network need to be cost-effective, fair, and have robust connectivity?
 
     Rentabilidad: una red rentable garantiza que se optimicen los recursos y la infraestructura necesarios para establecer y mantener la red. Esto incluye minimizar los gastos asociados con hardware, software, mantenimiento y costos operativos. Al ser rentable, una red puede proporcionar servicios y conectividad a un precio asequible, haciéndola accesible a una gama más amplia de usuarios.
 
@@ -59,7 +59,7 @@ Sections: 1.1, 1.2, 1.3 and 1.5
 
     Conectividad sólida: una conectividad sólida es crucial para que una red garantice una comunicación confiable e ininterrumpida. Una red con una conectividad sólida puede manejar grandes volúmenes de tráfico, proporcionar baja latencia y mantener un rendimiento constante incluso durante los períodos de uso pico. Minimiza el tiempo de inactividad, la pérdida de paquetes y otras interrupciones, mejorando así la experiencia del usuario y la productividad.
     
-- Discuss the challenges involved in designing a network that can support various applications.
+## - Discuss the challenges involved in designing a network that can support various applications.
 
     Requisitos de ancho de banda: diferentes aplicaciones tienen diferentes requisitos de ancho de banda. Algunas aplicaciones, como la transmisión de vídeo o los juegos en línea, requieren un gran ancho de banda para funcionar correctamente. Diseñar una red que pueda asignar suficiente ancho de banda a cada aplicación puede ser un desafío.
 
