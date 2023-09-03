@@ -51,7 +51,7 @@ Sections: 1.1, 1.2, 1.3 and 1.5
 
     Internet de las cosas (IoT): los dispositivos de IoT, como los dispositivos domésticos inteligentes, los dispositivos portátiles y los sensores industriales, generan una gran cantidad de datos que deben transmitirse y procesarse. Es necesaria una red escalable para manejar el creciente número de dispositivos conectados.
 
-## - Why does a network need to be cost-effective, fair, and have robust connectivity?
+ - Why does a network need to be cost-effective, fair, and have robust connectivity?
 
     Rentabilidad: una red rentable garantiza que se optimicen los recursos y la infraestructura necesarios para establecer y mantener la red. Esto incluye minimizar los gastos asociados con hardware, software, mantenimiento y costos operativos. Al ser rentable, una red puede proporcionar servicios y conectividad a un precio asequible, haciéndola accesible a una gama más amplia de usuarios.
 
@@ -59,17 +59,17 @@ Sections: 1.1, 1.2, 1.3 and 1.5
 
     Conectividad sólida: una conectividad sólida es crucial para que una red garantice una comunicación confiable e ininterrumpida. Una red con una conectividad sólida puede manejar grandes volúmenes de tráfico, proporcionar baja latencia y mantener un rendimiento constante incluso durante los períodos de uso pico. Minimiza el tiempo de inactividad, la pérdida de paquetes y otras interrupciones, mejorando así la experiencia del usuario y la productividad.
     
-## - Discuss the challenges involved in designing a network that can support various applications.
+ - Discuss the challenges involved in designing a network that can support various applications.
 
-    Requisitos de ancho de banda: diferentes aplicaciones tienen diferentes requisitos de ancho de banda. Algunas aplicaciones, como la transmisión de vídeo o los juegos en línea, requieren un gran ancho de banda para funcionar correctamente. Diseñar una red que pueda asignar suficiente ancho de banda a cada aplicación puede ser un desafío.
+        Requisitos de ancho de banda: diferentes aplicaciones tienen diferentes requisitos de ancho de banda. Algunas aplicaciones, como la transmisión de vídeo o los juegos en línea, requieren un gran ancho de banda para funcionar correctamente. Diseñar una red que pueda asignar suficiente ancho de banda a cada aplicación puede ser un desafío.
 
-    Calidad de servicio (QoS): ciertas aplicaciones, como las conferencias de voz o video, requieren baja latencia y alta prioridad para garantizar una experiencia de usuario fluida. Diseñar una red que pueda priorizar el tráfico y proporcionar la QoS necesaria para diferentes aplicaciones puede resultar complejo.
+        Calidad de servicio (QoS): ciertas aplicaciones, como las conferencias de voz o video, requieren baja latencia y alta prioridad para garantizar una experiencia de usuario fluida. Diseñar una red que pueda priorizar el tráfico y proporcionar la QoS necesaria para diferentes aplicaciones puede resultar complejo.
 
-    Escalabilidad: a medida que aumenta la cantidad de aplicaciones y usuarios en la red, la red debería poder escalar en consecuencia. Diseñar una red que pueda manejar las crecientes demandas de diversas aplicaciones sin comprometer el rendimiento o la estabilidad puede ser un desafío.
+        Escalabilidad: a medida que aumenta la cantidad de aplicaciones y usuarios en la red, la red debería poder escalar en consecuencia. Diseñar una red que pueda manejar las crecientes demandas de diversas aplicaciones sin comprometer el rendimiento o la estabilidad puede ser un desafío.
 
-    Seguridad: diferentes aplicaciones pueden tener diferentes requisitos de seguridad. Diseñar una red que pueda proporcionar las medidas de seguridad necesarias, como firewalls, sistemas de detección de intrusos o cifrado, para cada aplicación puede ser una tarea compleja.
+        Seguridad: diferentes aplicaciones pueden tener diferentes requisitos de seguridad. Diseñar una red que pueda proporcionar las medidas de seguridad necesarias, como firewalls, sistemas de detección de intrusos o cifrado, para cada aplicación puede ser una tarea compleja.
 
-    Compatibilidad: varias aplicaciones pueden tener diferentes protocolos o requisitos de comunicación. Diseñar una red que pueda admitir diferentes protocolos y garantizar la compatibilidad entre aplicaciones puede resultar un desafío.
+        Compatibilidad: varias aplicaciones pueden tener diferentes protocolos o requisitos de comunicación. Diseñar una red que pueda admitir diferentes protocolos y garantizar la compatibilidad entre aplicaciones puede resultar un desafío.
 
 
 ## 2. Computer Network Architecture
