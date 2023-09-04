@@ -126,9 +126,13 @@ Sections: 1.1, 1.2, 1.3 and 1.5
 - What are the main metrics we use to measure network performance?
 
     Bandwidth
+
     Throughput
+
     Latency
+
     Bandwidth Delay
+    
     Jitter
 
 - Give some examples of the challenges of using different metrics in high speed networks
