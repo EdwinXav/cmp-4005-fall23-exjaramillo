@@ -124,11 +124,11 @@ Sections: 1.1, 1.2, 1.3 and 1.5
     The performance of a network is important because they monitor and manage the health, efficiency, and reliability of your computer network. So by monitoring the performance like response times and network availability, businesses can identify areas for improvement and adjust their network infrastructure accordingly.
 
 - What are the main metrics we use to measure network performance?
-    Bandwidth.
-    Throughput.
-    Latency.
-    Bandwidth Delay.
-    Jitter.
+    Bandwidth
+    Throughput
+    Latency
+    Bandwidth Delay
+    Jitter
 
 - Give some examples of the challenges of using different metrics in high speed networks
 
