@@ -120,8 +120,19 @@ Sections: 1.1, 1.2, 1.3 and 1.5
 
 ## 3. Performance
 - Why is important to keep track of the performance of a network?
+
+    The performance of a network is important because they monitor and manage the health, efficiency, and reliability of your computer network. So by monitoring the performance like response times and network availability, businesses can identify areas for improvement and adjust their network infrastructure accordingly.
+
 - What are the main metrics we use to measure network performance?
+    Bandwidth.
+    Throughput.
+    Latency.
+    Bandwidth Delay.
+    Jitter.
+
 - Give some examples of the challenges of using different metrics in high speed networks
+
+    The challenges that we are going to have to go through will be to have a bandwidth that is capable of supporting all the traffic that will exist due to the high-speed networks that we have. In addition, the architecture must have a good scalability to be able to continue growing at the same time as the network does.
 
 
 ## Exercises
