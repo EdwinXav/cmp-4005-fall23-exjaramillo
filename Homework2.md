@@ -276,7 +276,9 @@ following bit sequence:
 5. Draw a timeline diagram for the sliding window algorithm with SWS = RWS = 3 frames, for the following two situations. Use a timeout interval of about 2 × RTT.
 
 - Frame 4 is lost.
+  
 ![Alt text](image.png)
 
 - Frames 4 to 6 are lost.
+  
 ![Alt text](image-1.png)
